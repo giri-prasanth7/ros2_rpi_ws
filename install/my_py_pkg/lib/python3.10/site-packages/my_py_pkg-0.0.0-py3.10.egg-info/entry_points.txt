@@ -1,0 +1,4 @@
+[console_scripts]
+minimal_publisher = my_py_pkg.minimal_publisher:main
+robot_news_station = my_py_pkg.robot_news_station:main
+

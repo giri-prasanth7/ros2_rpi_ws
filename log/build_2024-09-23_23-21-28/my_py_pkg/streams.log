@@ -1,0 +1,21 @@
+[2.456s] Invoking command in '/home/giri/ros2_ws/src/my_py_pkg': PYTHONPATH=/home/giri/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/giri/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/giri/ros2_ws/build/my_py_pkg/build install --record /home/giri/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
+[3.373s] running egg_info
+[3.377s] writing ../../build/my_py_pkg/my_py_pkg.egg-info/PKG-INFO
+[3.378s] writing dependency_links to ../../build/my_py_pkg/my_py_pkg.egg-info/dependency_links.txt
+[3.380s] writing entry points to ../../build/my_py_pkg/my_py_pkg.egg-info/entry_points.txt
+[3.380s] writing requirements to ../../build/my_py_pkg/my_py_pkg.egg-info/requires.txt
+[3.381s] writing top-level names to ../../build/my_py_pkg/my_py_pkg.egg-info/top_level.txt
+[3.389s] reading manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[3.392s] writing manifest file '../../build/my_py_pkg/my_py_pkg.egg-info/SOURCES.txt'
+[3.393s] running build
+[3.393s] running build_py
+[3.395s] running install
+[3.396s] running install_lib
+[3.402s] running install_data
+[3.402s] running install_egg_info
+[3.409s] removing '/home/giri/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[3.411s] Copying ../../build/my_py_pkg/my_py_pkg.egg-info to /home/giri/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages/my_py_pkg-0.0.0-py3.10.egg-info
+[3.416s] running install_scripts
+[3.495s] Installing robot_news_station script to /home/giri/ros2_ws/install/my_py_pkg/lib/my_py_pkg
+[3.497s] writing list of installed files to '/home/giri/ros2_ws/build/my_py_pkg/install.log'
+[3.612s] Invoked command in '/home/giri/ros2_ws/src/my_py_pkg' returned '0': PYTHONPATH=/home/giri/ros2_ws/build/my_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/giri/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_py_pkg build --build-base /home/giri/ros2_ws/build/my_py_pkg/build install --record /home/giri/ros2_ws/build/my_py_pkg/install.log --single-version-externally-managed install_data
